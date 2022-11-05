@@ -1,0 +1,38 @@
+{
+	"type": "custommachinery:custom_machine",
+	"machine": "custommachinery:rtg",
+	"time": 1,
+    "requirements": [
+		{
+			"type": "custommachinery:block",
+			"mode": "input",
+			"action": "check",
+			"pos": [0, 0, 0, 0, 1, 0],
+			"filter": "kubejs:array_top",
+			"whitelist": true,
+			"amount": 1
+		},
+		{
+			"type": "custommachinery:block",
+			"mode": "input",
+			"action": "check",
+			"pos": [0, -1, 0, 0, 0, 0],
+			"filter": "kubejs:array_bottom",
+			"whitelist": true,
+			"amount": 1
+		},
+		{
+			"type": "custommachinery:item",
+			"mode": "input",
+			"item": "#forge:ingots/uranium",
+			"amount": 1,
+			"chance": 0
+		},
+		{
+			"type": "custommachinery:energy",
+			"mode": "output",
+			"amount": 10
+		}
+	
+	]
+}

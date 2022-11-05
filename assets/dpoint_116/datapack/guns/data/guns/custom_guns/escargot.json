@@ -1,0 +1,49 @@
+{
+  "model": {
+      "item": "minecraft:wooden_sword",
+      "nbt": {
+          "CustomModelData": 1
+      }
+  },
+  "gun": {
+      "general": {
+          "auto": false,
+          "rate": 100,
+          "gripType": "cgm:two_handed",
+          "maxAmmo": 1,
+          "reloadAmount": 1,
+          "recoilKick": 2,
+          "recoilAngle": 5.0,
+          "spread": 1
+      },
+      "projectile": {
+          "item": "kubejs:dummy_ammo",
+          "visible": false,
+          "damage": 14,
+          "size": 0.2,
+          "speed": 10.0,
+          "life": 1000,
+          "gravity": false,
+          "trailColor": 16737380
+      },
+      "sounds": {
+        "fire": "minecraft:custom.guns.escargot.fire",
+        "reload": "minecraft:custom.guns.escargot.reload",
+        "cock": "minecraft:custom.guns.escargot.cock",
+        "silencedFire": "minecraft:custom.guns.escargot.fire"
+      },
+      "display": {
+          "flash": {
+              "yOffset": 3.5,
+              "zOffset": 0
+          }
+      },
+      "modules": {
+          "zoom": {
+              "fovModifier": 0.6,
+              "yOffset": 8.75,
+              "zOffset": -2.2
+          }
+      }
+  }
+}

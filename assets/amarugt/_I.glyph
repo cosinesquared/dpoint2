@@ -1,0 +1,15 @@
+StartChar: I
+Encoding: 73 73 24
+Width: 200
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+150 0 m 1,0,-1
+ 50 0 l 1,1,-1
+ 50 600 l 1,2,-1
+ 150 600 l 1,3,-1
+ 150 0 l 1,0,-1
+EndSplineSet
+EndChar

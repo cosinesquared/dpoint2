@@ -1,0 +1,84 @@
+SplineFontDB: 3.2
+FontName: AmarilloUSAF
+FullName: AmarilloUSAF
+FamilyName: AmarilloUSAF
+Weight: Book
+Copyright: AmarilloUSAF (c) Copyright 1994, 1996, 1998  by Tom C. Lai.  All Rights Reserved.  For more info, visit http://www.tlai.com or contact tclai@kagi.com - Permission Required For Commercial Distribution.  Registration required after 30 days of use. 013-002-R
+Version: TLai Enterprises Media Design 8/30/98
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 962 -574043836 20884]
+StyleMap: 0x0040
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 904511916
+ModificationTime: 904698193
+PfmFamily: 81
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 4 0 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 800
+OS2WinAOffset: 0
+OS2WinDescent: 122
+OS2WinDOffset: 0
+HheadAscent: 800
+HheadAOffset: 0
+HheadDescent: -200
+HheadDOffset: 0
+OS2SubXSize: 700
+OS2SubYSize: 650
+OS2SubXOff: 0
+OS2SubYOff: 143
+OS2SupXSize: 700
+OS2SupYSize: 650
+OS2SupXOff: 0
+OS2SupYOff: 453
+OS2StrikeYSize: 50
+OS2StrikeYPos: 259
+OS2Vendor: 'TLnt'
+OS2UnicodeRanges: 00000000.00000000.00000000.00000000
+DEI: 91125
+ShortTable: maxp 16
+  1
+  0
+  72
+  344
+  34
+  0
+  0
+  2
+  0
+  0
+  0
+  0
+  0
+  0
+  1
+  1
+EndShort
+LangName: 1033 "AmarilloUSAF +AKkA Copyright 1994, 1996, 1998  by Tom C. Lai.  All Rights Reserved.  For more info, visit http://www.tlai.com or contact tclai@kagi.com +IBAA Permission Required For Commercial Distribution.  Registration required after 30 days of use. 013+IBAA-002+IBAA-R" "" "Regular" "TLai Enterprises Media Design AmarilloUSAF" "" "TLai Enterprises Media Design 8/30/98" "" "" "TLai Enterprises Media Design" "Tom C. Lai" "US Air Force aircraft marking font." "http://www.tlai.com" "mailto:tclai@kagi.com" "This font software is offered on a trial basis only.  If you wish to use this software on a permanent basis, you must pay the shareware registration fee within 30 days.  Please refer to the documentation, or our website, for more information." "http://www.tlai.com"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 39 14
+EndSplineFont

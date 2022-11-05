@@ -1,0 +1,59 @@
+{
+    "components": [
+      {
+        "capacity": 1000,
+        "maxInput": 0,
+        "maxOutput": 100,
+        "type": "custommachinery:energy"
+      },
+      {
+        "type": "custommachinery:item",
+        "id": "fuel",
+        "filter": ["minecraft:diamond"],
+        "whitelist": true,
+        "mode": "input"
+    }
+
+
+    ],
+    "name": {
+      "text": "RTG"
+    },
+    "appearance": {
+      "item": "kubejs:array_middle",
+      "block": "kubejs:array_middle"
+    },
+    "gui": [ 
+        {
+            "type": "custommachinery:texture",
+            "x": 0,
+            "y": 0,
+            "texture": "custommachinery:textures/gui/base_background.png"
+        },
+        {
+            "type": "custommachinery:energy",
+            "x": 200,
+            "y": 80
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 118,
+            "y": 96,
+            "id": "fuel"
+        },
+        {
+            "type": "custommachinery:player_inventory",
+            "x": 48,
+            "y": 198
+        },
+        {
+            "type": "custommachinery:text",
+            "x": 20,
+            "y": 20,
+            "text": "T243M"
+        }
+        
+    ]
+
+    
+}

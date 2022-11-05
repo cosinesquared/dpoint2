@@ -1,0 +1,20 @@
+{
+    "custom.dpoint.menumusic": {
+        "sounds": [
+            "custom/startup/australia", 
+            "custom/startup/china",    
+            "custom/startup/france",    
+            "custom/startup/germany",    
+            "custom/startup/greatbritain",    
+            "custom/startup/italy",    
+            "custom/startup/japan",    
+            "custom/startup/sovietunion",    
+            "custom/startup/sweden",    
+            "custom/startup/unitedstates"          
+        ],
+        "stream": true,
+        "preload": true
+
+    }
+}
+

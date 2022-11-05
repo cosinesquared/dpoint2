@@ -1,0 +1,442 @@
+{
+    "custom.guns.escargot.fire": {
+        "sounds": [{ "name": "custom/guns/escargot/fire" }]
+    },
+	   "custom.guns.escargot.cock": {
+        "sounds": [{ "name": "custom/guns/escargot/cock" }]
+    },
+	   "custom.guns.escargot.reload": {
+        "sounds": [{ "name": "custom/guns/escargot/reload" }]
+    },
+	   "custom.guns.eoka.fire": {
+        "sounds": [{ "name": "custom/guns/eoka/fire" }]
+    },
+	   "custom.guns.eoka.cock": {
+        "sounds": [{ "name": "custom/guns/eoka/cock" }]
+    },
+	   "custom.guns.eoka.reload": {
+        "sounds": [{ "name": "custom/guns/eoka/reload" }]
+    },
+
+    
+    "custom.guns.t1revolver.fire": {
+        "sounds": [{ "name": "custom/guns/t1revolver/fire" }]
+    },
+	   "custom.guns.t1revolver.cock": {
+        "sounds": [{ "name": "custom/guns/t1revolver/cock" }]
+    },
+	   "custom.guns.t1revolver.reload": {
+        "sounds": [{ "name": "custom/guns/t1revolver/reload" }]
+    },
+	   "custom.guns.t1singlerifle.fire": {
+        "sounds": [{ "name": "custom/guns/t1singlerifle/fire" }]
+    },
+	   "custom.guns.t1singlerifle.cock": {
+        "sounds": [{ "name": "custom/guns/t1singlerifle/cock" }]
+    },
+	   "custom.guns.t1singlerifle.reload": {
+        "sounds": [{ "name": "custom/guns/t1singlerifle/reload" }]
+    },
+
+
+    "custom.guns.repeater.fire": {
+        "sounds": [{ "name": "custom/guns/repeater/fire" }]
+    },
+	   "custom.guns.repeater.cock": {
+        "sounds": [{ "name": "custom/guns/repeater/cock" }]
+    },
+	   "custom.guns.repeater.reload": {
+        "sounds": [{ "name": "custom/guns/repeater/reload" }]
+    },
+	   "custom.guns.t2revolver.fire": {
+        "sounds": [{ "name": "custom/guns/t2revolver/fire" }]
+    },
+	   "custom.guns.t2revolver.cock": {
+        "sounds": [{ "name": "custom/guns/t2revolver/cock" }]
+    },
+	   "custom.guns.t2revolver.reload": {
+        "sounds": [{ "name": "custom/guns/t2revolver/reload" }]
+    },
+	   "custom.guns.t2singlerifle.fire": {
+        "sounds": [{ "name": "custom/guns/t2singlerifle/fire" }]
+    },
+	   "custom.guns.t2singlerifle.cock": {
+        "sounds": [{ "name": "custom/guns/t2singlerifle/cock" }]
+    },
+	   "custom.guns.t2singlerifle.reload": {
+        "sounds": [{ "name": "custom/guns/t2singlerifle/reload" }]
+	},
+	   "custom.guns.t1shotgun.fire": {
+        "sounds": [{ "name": "custom/guns/t1shotgun/fire" }]
+    },
+	   "custom.guns.t1shotgun.cock": {
+        "sounds": [{ "name": "custom/guns/t1shotgun/cock" }]
+    },
+	   "custom.guns.t1shotgun.reload": {
+        "sounds": [{ "name": "custom/guns/t1shotgun/reload" }]
+    },
+	   "custom.guns.t1mg.fire": {
+        "sounds": [{ "name": "custom/guns/t1mg/fire" }]
+    },
+	   "custom.guns.t1mg.cock": {
+        "sounds": [{ "name": "custom/guns/t1mg/cock" }]
+    },
+	   "custom.guns.t1mg.reload": {
+        "sounds": [{ "name": "custom/guns/t1mg/reload" }]
+    },
+
+
+    "custom.guns.boltaction.fire": {
+        "sounds": [{ "name": "custom/guns/boltaction/fire" }]
+    },
+	   "custom.guns.boltaction.cock": {
+        "sounds": [{ "name": "custom/guns/boltaction/cock" }]
+    },
+	   "custom.guns.boltaction.reload": {
+        "sounds": [{ "name": "custom/guns/boltaction/reload" }]
+    },
+	   "custom.guns.t1handgun.fire": {
+        "sounds": [{ "name": "custom/guns/t1handgun/fire" }]
+    },
+	   "custom.guns.t1handgun.cock": {
+        "sounds": [{ "name": "custom/guns/t1handgun/cock" }]
+    },
+	   "custom.guns.t1handgun.reload": {
+        "sounds": [{ "name": "custom/guns/t1handgun/reload" }]
+    },
+	   "custom.guns.t2mg.fire": {
+        "sounds": [{ "name": "custom/guns/t2mg/fire" }]
+    },
+	   "custom.guns.t2mg.cock": {
+        "sounds": [{ "name": "custom/guns/t2mg/cock" }]
+    },
+	   "custom.guns.t2mg.reload": {
+        "sounds": [{ "name": "custom/guns/t2mg/reload" }]
+    },
+	   "custom.guns.t2shotgun.fire": {
+        "sounds": [{ "name": "custom/guns/t2shotgun/fire" }]
+    },
+	   "custom.guns.t2shotgun.cock": {
+        "sounds": [{ "name": "custom/guns/t2shotgun/cock" }]
+    },
+	   "custom.guns.t2shotgun.reload": {
+        "sounds": [{ "name": "custom/guns/t2shotgun/reload" }]
+    },
+	   "custom.guns.t3singlerifle.fire": {
+        "sounds": [{ "name": "custom/guns/t3singlerifle/fire" }]
+    },
+	   "custom.guns.t3singlerifle.cock": {
+        "sounds": [{ "name": "custom/guns/t3singlerifle/cock" }]
+    },
+	   "custom.guns.t3singlerifle.reload": {
+        "sounds": [{ "name": "custom/guns/t3singlerifle/reload" }]
+    },
+
+
+    "custom.guns.t1launcher.fire": {
+        "sounds": [{ "name": "custom/guns/t1launcher/fire" }]
+    },
+	   "custom.guns.t1launcher.cock": {
+        "sounds": [{ "name": "custom/guns/t1launcher/cock" }]
+    },
+	   "custom.guns.t1launcher.reload": {
+        "sounds": [{ "name": "custom/guns/t1launcher/reload" }]
+    },
+	   "custom.guns.t1semiauto.fire": {
+        "sounds": [{ "name": "custom/guns/t1semiauto/fire" }]
+    },
+	   "custom.guns.t1semiauto.cock": {
+        "sounds": [{ "name": "custom/guns/t1semiauto/cock" }]
+    },
+	   "custom.guns.t1semiauto.reload": {
+        "sounds": [{ "name": "custom/guns/t1semiauto/reload" }]
+    },
+	   "custom.guns.t1smg9.fire": {
+        "sounds": [{ "name": "custom/guns/t1smg9/fire" }]
+    },
+	   "custom.guns.t1smg9.cock": {
+        "sounds": [{ "name": "custom/guns/t1smg9/cock" }]
+    },
+	   "custom.guns.t1smg9.reload": {
+        "sounds": [{ "name": "custom/guns/t1smg9/reload" }]
+    },
+	   "custom.guns.t1smg45.fire": {
+        "sounds": [{ "name": "custom/guns/t1smg45/fire" }]
+    },
+	   "custom.guns.t1smg45.cock": {
+        "sounds": [{ "name": "custom/guns/t1smg45/cock" }]
+    },
+	   "custom.guns.t1smg45.reload": {
+        "sounds": [{ "name": "custom/guns/t1smg45/reload" }]
+    },
+	   "custom.guns.t2handgun.fire": {
+        "sounds": [{ "name": "custom/guns/t2handgun/fire" }]
+    },
+	   "custom.guns.t2handgun.cock": {
+        "sounds": [{ "name": "custom/guns/t2handgun/cock" }]
+    },
+	   "custom.guns.t2handgun.reload": {
+        "sounds": [{ "name": "custom/guns/t2handgun/reload" }]
+    },
+	   "custom.guns.t3mg.fire": {
+        "sounds": [{ "name": "custom/guns/t3mg/fire" }]
+    },
+	   "custom.guns.t3mg.cock": {
+        "sounds": [{ "name": "custom/guns/t3mg/cock" }]
+    },
+	   "custom.guns.t3mg.reload": {
+        "sounds": [{ "name": "custom/guns/t3mg/reload" }]
+    },
+
+
+    "custom.guns.t2ar.fire": {
+        "sounds": [{ "name": "custom/guns/t2ar/fire" }]
+    },
+		"custom.guns.t2ar.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t2ar/silenced_fire" }]
+    },
+	   "custom.guns.t2ar.cock": {
+        "sounds": [{ "name": "custom/guns/t2ar/cock" }]
+    },
+	   "custom.guns.t2ar.reload": {
+        "sounds": [{ "name": "custom/guns/t2ar/reload" }]
+    },
+	   "custom.guns.t3launcher.fire": {
+        "sounds": [{ "name": "custom/guns/t3launcher/fire" }]
+    },
+	   "custom.guns.t3launcher.cock": {
+        "sounds": [{ "name": "custom/guns/t3launcher/cock" }]
+    },
+	   "custom.guns.t3launcher.reload": {
+        "sounds": [{ "name": "custom/guns/t3launcher/reload" }]
+    },
+	   "custom.guns.t3semiauto.fire": {
+        "sounds": [{ "name": "custom/guns/t3semiauto/fire" }]
+    },
+	   "custom.guns.t3semiauto.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t3semiauto/silenced_fire" }]
+    },
+	   "custom.guns.t3semiauto.cock": {
+        "sounds": [{ "name": "custom/guns/t3semiauto/cock" }]
+    },
+	   "custom.guns.t3semiauto.reload": {
+        "sounds": [{ "name": "custom/guns/t3semiauto/reload" }]
+    },
+	   "custom.guns.t5mg.fire": {
+        "sounds": [{ "name": "custom/guns/t5mg/fire" }]
+    },
+	   "custom.guns.t5mg.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t5mg/silenced_fire" }]
+    },
+	   "custom.guns.t5mg.cock": {
+        "sounds": [{ "name": "custom/guns/t5mg/cock" }]
+    },
+	   "custom.guns.t5mg.reload": {
+        "sounds": [{ "name": "custom/guns/t5mg/reload" }]
+    },
+	   "custom.guns.t4shotgun.fire": {
+        "sounds": [{ "name": "custom/guns/t4shotgun/fire" }]
+    },
+	   "custom.guns.t4shotgun.cock": {
+        "sounds": [{ "name": "custom/guns/t4shotgun/cock" }]
+    },
+	   "custom.guns.t4shotgun.reload": {
+        "sounds": [{ "name": "custom/guns/t4shotgun/reload" }]
+    },
+
+
+    "custom.guns.t3caselessar.fire": {
+        "sounds": [{ "name": "custom/guns/t3caselessar/fire" }]
+    },
+	   "custom.guns.t3caselessar.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t3caselessar/silenced_fire" }]
+    },
+	   "custom.guns.t3caselessar.cock": {
+        "sounds": [{ "name": "custom/guns/t3caselessar/cock" }]
+    },
+	   "custom.guns.t3caselessar.reload": {
+        "sounds": [{ "name": "custom/guns/t3caselessar/reload" }]
+    },
+	   "custom.guns.t3polymerar.fire": {
+        "sounds": [{ "name": "custom/guns/t3polymerar/fire" }]
+    },
+	   "custom.guns.t3polymerar.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t3polymerar/silenced_fire" }]
+    },
+	   "custom.guns.t3polymerar.cock": {
+        "sounds": [{ "name": "custom/guns/t3polymerar/cock" }]
+    },
+	   "custom.guns.t3polymerar.reload": {
+        "sounds": [{ "name": "custom/guns/t3polymerar/reload" }]
+    },
+	   "custom.guns.t3caselesssmg.fire": {
+        "sounds": [{ "name": "custom/guns/t3caselesssmg/fire" }]
+    },
+	   "custom.guns.t3caselesssmg.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t3caselesssmg/silenced_fire" }]
+    },
+	   "custom.guns.t3caselesssmg.cock": {
+        "sounds": [{ "name": "custom/guns/t3caselesssmg/cock" }]
+    },
+	   "custom.guns.t3caselesssmg.reload": {
+        "sounds": [{ "name": "custom/guns/t3caselesssmg/reload" }]
+    },
+	   "custom.guns.t4launcher.fire": {
+        "sounds": [{ "name": "custom/guns/t4launcher/fire" }]
+    },
+	   "custom.guns.t4launcher.cock": {
+        "sounds": [{ "name": "custom/guns/t4launcher/cock" }]
+    },
+	   "custom.guns.t4launcher.reload": {
+        "sounds": [{ "name": "custom/guns/t4launcher/reload" }]
+    },
+	   "custom.guns.t4semiauto.fire": {
+        "sounds": [{ "name": "custom/guns/t4semiauto/fire" }]
+    },
+	   "custom.guns.t4semiauto.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t4semiauto/silenced_fire" }]
+    },
+	   "custom.guns.t4semiauto.cock": {
+        "sounds": [{ "name": "custom/guns/t4semiauto/cock" }]
+    },
+	   "custom.guns.t4semiauto.reload": {
+        "sounds": [{ "name": "custom/guns/t4semiauto/reload" }]
+    },
+	   "custom.guns.t6caselessmg.fire": {
+        "sounds": [{ "name": "custom/guns/t6caselessmg/fire" }]
+    },
+	   "custom.guns.t6caselessmg.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t6caselessmg/silenced_fire" }]
+    },
+	   "custom.guns.t6caselessmg.cock": {
+        "sounds": [{ "name": "custom/guns/t6caselessmg/cock" }]
+    },
+	   "custom.guns.t6caselessmg.reload": {
+        "sounds": [{ "name": "custom/guns/t6caselessmg/reload" }]
+    },
+	   "custom.guns.t6polymermg.fire": {
+        "sounds": [{ "name": "custom/guns/t6polymermg/fire" }]
+    },
+	   "custom.guns.t6polymermg.silenced_fire": {
+        "sounds": [{ "name": "custom/guns/t6polymermg/silenced_fire" }]
+    },
+	   "custom.guns.t6polymermg.cock": {
+        "sounds": [{ "name": "custom/guns/t6polymermg/cock" }]
+    },
+	   "custom.guns.t6polymermg.reload": {
+        "sounds": [{ "name": "custom/guns/t6polymermg/reload" }]
+    },
+
+
+
+
+
+
+
+    "custom.dpoint.bulletimpactenergy": {
+        "sounds": [
+            "custom/impact/squibbulletimpactforce1",  
+            "custom/impact/squibbulletimpactforce2",  
+            "custom/impact/squibbulletimpactforce3",  
+            "custom/impact/squibbulletimpactforce4",  
+            "custom/impact/squibbulletimpactforce5",  
+            "custom/impact/squibbulletimpactforce6",  
+            "custom/impact/squibbulletimpactforce7",  
+            "custom/impact/squibbulletimpactforce8",  
+            "custom/impact/squibbulletimpactforce9",  
+            "custom/impact/squibbulletimpactforce10",  
+            "custom/impact/squibbulletimpactforce11",  
+            "custom/impact/squibbulletimpactforce12",  
+            "custom/impact/squibbulletimpactforce13",  
+            "custom/impact/squibbulletimpactforce14",  
+            "custom/impact/squibbulletimpactforce15",  
+            "custom/impact/squibbulletimpactforce16",  
+            "custom/impact/squibbulletimpactforce17",  
+            "custom/impact/squibbulletimpactforce18",  
+            "custom/impact/squibbulletimpactforce19",  
+            "custom/impact/squibbulletimpactforce20",  
+            "custom/impact/squibbulletimpactforce20",  
+            "custom/impact/squibbulletimpactforce21",  
+            "custom/impact/squibbulletimpactforce22",  
+            "custom/impact/squibbulletimpactforce23",  
+            "custom/impact/squibbulletimpactforce24",   
+            "custom/impact/squibbulletimpactforce25"         
+        ],
+        "subtitle": "energy shield hum"
+    },
+    "custom.dpoint.overheat": {
+        "sounds": [
+            "custom/overheat/wpnvehturretoverheatnc2d01",
+            "custom/overheat/wpnvehturretoverheatnc2d02",
+            "custom/overheat/wpnvehturretoverheatnc2d03",
+            "custom/overheat/wpnvehturretoverheattr2d01",
+            "custom/overheat/wpnvehturretoverheattr2d02",
+            "custom/overheat/wpnvehturretoverheattr2d03",
+            "custom/overheat/wpnvehturretoverheatvs2d01",
+            "custom/overheat/wpnvehturretoverheatvs2d02",
+            "custom/overheat/wpnvehturretoverheatvs2d03"
+        ],
+        "subtitle": "overheated"
+    },   
+    "custom.dpoint.shieldup" : {
+        "sounds": [
+            "custom/misc/shield/vehgalaxyshieldup01lr"
+        ],
+        "subtitle": "energy shield up"
+    },
+    "custom.dpoint.shielddown" : {
+        "sounds": [
+            "custom/misc/shield/vehgalaxyshielddwn01lr"
+        ],
+        "subtitle": "energy shield down"
+    },
+    "custom.dpoint.static" : {
+        "sounds": [
+            "custom/misc/comm/wpnrlncphoenixstaticlong"
+        ],
+        "subtitle": "comm static"
+    },
+    "custom.dpoint.mechanicalup" : {
+        "sounds": [
+            "custom/misc/mechanical/wpnvehesavvs2dmechstart",
+            "custom/misc/mechanical/wpnvehesavvs3dmechstart"       
+        ],
+        "subtitle": "mechanical startup"
+    },
+    "custom.dpoint.synth" : {
+        "sounds": [
+            "custom/misc/synth/wpnvsidsynthtone2d01",
+            "custom/misc/synth/wpnvsidsynthtone2d02"        
+        ],
+        "subtitle": "gun crit!"
+    },
+    "custom.dpoint.array" : {
+        "sounds": [
+            "custom/misc/array/beep1",
+            "custom/misc/array/beep2"        
+        ],
+        "subtitle": ". . ."
+    },
+    "custom.dpoint.playerloaded" :{
+        "sounds": [
+            "custom/startup/loaded"
+        ],
+        "subtitle": "Player Loaded",
+        "preload": true
+    },
+    "custom.dpoint.playerjoining" :{
+        "sounds": [
+            "custom/startup/joining"
+        ],
+        "subtitle": "Player Joining",
+        "preload": true
+    },
+    "custom.dpoint.downloaded" :{
+        "sounds": [
+            "custom/startup/downloaded"
+        ],
+        "subtitle": "",
+        "preload": true
+    }    
+}
+
