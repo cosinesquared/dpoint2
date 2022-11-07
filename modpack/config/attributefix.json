@@ -77,17 +77,6 @@
         "value": 10000000
       }
     },
-    "epicfight:weight": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -99,14 +88,14 @@
         "value": 10000000
       }
     },
-    "epicfight:offhand_armor_negation": {
+    "epicfight:weight": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
+        "default": 1024,
         "value": 10000000
       }
     },
@@ -118,6 +107,17 @@
       },
       "max": {
         "default": 8,
+        "value": 10000000
+      }
+    },
+    "epicfight:offhand_armor_negation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
         "value": 10000000
       }
     },
@@ -187,17 +187,6 @@
         "value": 10000000
       }
     },
-    "epicfight:staminar": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
     "ars_nouveau:max_mana": {
       "enabled": false,
       "min": {
@@ -206,6 +195,17 @@
       },
       "max": {
         "default": 10000,
+        "value": 10000000
+      }
+    },
+    "epicfight:staminar": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
         "value": 10000000
       }
     },
@@ -264,6 +264,17 @@
         "value": 10000000
       }
     },
+    "forge:reach_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
     "epicfight:stun_armor": {
       "enabled": false,
       "min": {
@@ -280,17 +291,6 @@
       "min": {
         "default": 1,
         "value": 1
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "forge:reach_distance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
       },
       "max": {
         "default": 1024,

@@ -5,7 +5,7 @@
 	#Should play packet size limits be disabled? Error:(Badly compressed packet) default:true
 	disablePacketLimits = true
 	#If enabled all messages exceeding normal limits will be printed to log. default:false
-	debugPrintMessages = false
+	debugPrintMessages = true
 	#Set the max login timeout in ticks. 20 ticks = 1 sec, default = 120 seconds
 	#Range: 600 ~ 20000
 	logintimeout = 2400

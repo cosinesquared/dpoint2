@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Oct 31, 2022, 4:55:50 PM
+To refresh this file, delete it and run /reload command again! Last updated: Nov 5, 2022, 3:31:40 PM
 
 #minecraft:has_structure/nether_fortress
 - #minecraft:is_nether
@@ -242,6 +242,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 #repurposed_structures:has_structure/outposts/birch
 - #repurposed_structures:collections/birch_forests
 
+#terraforged:trees/hardy_slopes
+- minecraft:taiga
+
 #dungeons_arise:has_structure/small_prairie_house_biomes
 - minecraft:plains
 - minecraft:meadow
@@ -249,6 +252,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 
 #repurposed_structures:has_structure/witch_huts/dark_forest
 - #repurposed_structures:collections/spooky_forests
+
+#terraforged:trees/sparse_rainforest
+- minecraft:sparse_jungle
 
 #forge:is_rare
 - minecraft:mushroom_fields
@@ -440,6 +446,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 - minecraft:grove
 - terralith:alpine_grove
 - terralith:cloud_forest
+
+#terraforged:trees/patchy
+- minecraft:wooded_badlands
+- terraforged:oak_forest
 
 #byg:has_structure/village_taiga
 - #byg:is_taiga
@@ -1306,6 +1316,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 #repurposed_structures:has_structure/temples/nether_basalt
 - #repurposed_structures:collections/nether_basalts
 
+#terraforged:overworld
+- terraforged:cave
+- terraforged:oak_forest
+
 #croptopia:has_crop/radish
 - minecraft:forest
 - minecraft:flower_forest
@@ -1358,6 +1372,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 
 #c:void
 - #byg:is_void
+
+#terraforged:trees/sparse
+- minecraft:windswept_savanna
+- minecraft:savanna_plateau
+- minecraft:savanna
 
 #byg:is_peak
 
@@ -1528,6 +1547,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 - byg:skyris_vale
 - byg:black_forest
 - byg:guiana_shield
+
+#terraforged:trees/rainforest
+- minecraft:jungle
+- minecraft:bamboo_jungle
 
 #repurposed_structures:has_structure/villages/mushroom
 - #repurposed_structures:collections/mushrooms
@@ -1854,6 +1877,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 #terralith:has_structure/fortified_desert_village
 - minecraft:desert
 - terralith:desert_oasis
+
+#terraforged:trees/hardy
+- minecraft:dark_forest
+- minecraft:old_growth_spruce_taiga
+- minecraft:taiga
+- minecraft:windswept_forest
+- minecraft:old_growth_pine_taiga
 
 #minecraft:has_structure/ocean_ruin_cold
 - minecraft:frozen_ocean
@@ -2505,6 +2535,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 #c:aquatic
 - #byg:is_water
 
+#terraforged:trees/temperate
+- minecraft:birch_forest
+- minecraft:forest
+- minecraft:flower_forest
+- minecraft:old_growth_birch_forest
+
 #byg:is_lush
 - byg:lush_stacks
 - byg:orchard
@@ -2844,6 +2880,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Oct
 - terralith:yellowstone
 - terralith:yosemite_cliffs
 - terralith:yosemite_lowlands
+
+#terraforged:trees/copses
+- minecraft:snowy_plains
+- minecraft:meadow
+- minecraft:sunflower_plains
+- minecraft:plains
 
 #repurposed_structures:has_structure/pyramids/snowy
 - #repurposed_structures:collections/snowy_plains

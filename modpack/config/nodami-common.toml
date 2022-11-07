@@ -3,7 +3,7 @@
 [core]
 	#How many ticks of i-frames does an entity get when damaged, from 0 (default), to 2^31-1 (nothing can take damage)
 	#Range: > 0
-	iFrameInterval = 0
+	iFrameInterval = 4
 	#Are players excluded from this mod (if true, players will always get 10 ticks of i-frames on being damaged
 	excludePlayers = false
 	#Are players excluded from this mod (if true, players will always get 10 ticks of i-frames on being damaged
