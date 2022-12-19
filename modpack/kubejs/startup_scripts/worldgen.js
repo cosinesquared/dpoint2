@@ -1,5 +1,4 @@
 onEvent('worldgen.remove', event => {
-  console.log("WORLDGEN EVENT FIRED")
     event.removeOres(ores => {
       ores.blocks = [ 
         'ftbic:aluminum_ore',
@@ -12,12 +11,5 @@ onEvent('worldgen.remove', event => {
         'ftbic:deepslate_uranium_ore'
     ] 
     })
-    console.log("WORLDGEN EVENT FIRED")
-    console.log("WORLDGEN EVENT FIRED")
-    console.log("WORLDGEN EVENT FIRED")
-
-    console.log("WORLDGEN EVENT FIRED")
-    console.log("WORLDGEN EVENT FIRED")
-    
-    event.printFeatures('underground_ores')
+    //event.printFeatures('underground_ores')
 })
