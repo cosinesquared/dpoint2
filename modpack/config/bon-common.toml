@@ -1,0 +1,28 @@
+
+#General Settings
+[general]
+	#Multiply the speed at which you change temperature.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	baseSpeedModifier = 1.0
+
+#Armor Settings
+[armor]
+	#How much of an armor item's stats are determined by it's liner. 0.5 means average the stats evenly. 1 means it will have exactly the stats of the liner. 0 means liners don't do anything.
+	#Range: 0.0 ~ 1.0
+	linerFactor = 0.9
+
+#Serene Seasons Compatibility
+[seasons]
+	#Serene Seasons spring modifier.
+	#Range: -99999.0 ~ 99999.0
+	seasonSpringMod = 10.0
+	#Serene Seasons summer modifier.
+	#Range: -99999.0 ~ 99999.0
+	seasonSummerMod = 20.0
+	#Serene Seasons autumn modifier.
+	#Range: -99999.0 ~ 99999.0
+	seasonAutumnMod = -10.0
+	#Serene Seasons winter modifier.
+	#Range: -99999.0 ~ 99999.0
+	seasonWinterMod = -20.0
+
