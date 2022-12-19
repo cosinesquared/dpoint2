@@ -1,0 +1,17 @@
+#[INTERNAL] Mod configuration version -- DO NOT ALTER, EVER!
+version = 1
+
+[general]
+	#[ADVANCED] Set to the amount of thirst replenished by a bottle of potable water like TAN's purified water. You SHOULD change this value if you have altered the baseline value, as defined in the TAN data tag, to a significantly different value (eg from 5pts to 2pts). Note that the library and plugin do not use this value; the client mods like Vanilla Food Pantry and Super Buckets do.
+	#Range: 1 ~ 20
+	potable_water_quenches = 6
+	#[INTERNAL] Development workflow enabled. Do NOT enable in your regular environment.
+	debug_mode = false
+	#[ADVANCED] Set to the thirst level that triggers auto-hydration mechanisms to kick in. For instance, Armor Underwear's hydrating vest will NOT give you a sip of water until your thirst drops below this value. Be careful not to set this value too low as a high thirst value does interfere with health regen!.
+	#Range: 3 ~ 20
+	auto_hydrate_threshold = 18
+	#Set to false to stop warming food and warming goo paks from providing TAN's Ice Resistance effect. Does NOT affect the Armor Underwear special liners that include this effect (change that mod's config).
+	use_ice_resistance = true
+	#Set to false to stop Armor Underwear's auto-regulating temperature liners from using TAN's Thermal Tuning enchantment.
+	use_tuning_enchant = true
+

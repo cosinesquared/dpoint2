@@ -772,18 +772,11 @@
 		#This is the maximum distance between nodes for them to be counted as part of the network.
 		#Range: 0 ~ 100000000
 		HEAVENS_CUP_NETWORK_DISTANCE = 30
-		#This is the effect that is applied when the network has multiples of 2.
-		HEAVENS_CUP_TWO_EFFECT = "poison"
-		#This is the effect that is applied when the network has multiples of 3.
-		HEAVENS_CUP_THREE_EFFECT = "weakness"
-		#This is the effect that is applied when the network has multiples of 5.
-		HEAVENS_CUP_FIVE_EFFECT = "blindness"
-		#This is the effect that is applied when the network has multiples of 7.
-		HEAVENS_CUP_SEVEN_EFFECT = "slowness"
-		#This is the effect that is applied when the network has multiples of 11.
-		HEAVENS_CUP_ELEVEN_EFFECT = "wither"
-		#This is the effect that is applied when the network has multiples of 13.
-		HEAVENS_CUP_THIRTEEN_EFFECT = "levitation"
+		#Iterations per tick for Heavens Cup
+		#Range: 0 ~ 100000000
+		HEAVENS_CUP_MAX_ITERS = 10
+		#List of effects, in order, achievable by the cup of heaven
+		HEAVENS_CUP_EFFECTS = ["poison", "weakness", "blindness", "slowness", "wither", "levitation"]
 
 [eyes]
 
@@ -962,6 +955,12 @@
 		#This is the cost of using the scroll
 		#Range: 0 ~ 100000000
 		BUTTERFLY_EFFECT_MANA_COST = 100
+		#This is the limit on butterflies per block
+		#Range: 0 ~ 100000000
+		BUTTERFLY_EFFECT_BLOCK_LIMIT = 4
+		#This is the limit on butterflies per chunk
+		#Range: 0 ~ 100000000
+		BUTTERFLY_EFFECT_CHUNK_LIMIT = 40
 		#This is the how long the effect lasts
 		#Range: 0 ~ 100000000
 		BUTTERFLY_EFFECT_DURATION = 400

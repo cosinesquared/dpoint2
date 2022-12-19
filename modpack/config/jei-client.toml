@@ -59,7 +59,7 @@
 	MaxRows = 16
 	#Max number of columns shown
 	#Range: 4 ~ 100
-	MaxColumns = 9
+	MaxColumns = 90
 	#Horizontal alignment of the ingredient grid inside the available area
 	#Allowed Values: LEFT, CENTER, RIGHT
 	HorizontalAlignment = "RIGHT"
@@ -78,7 +78,7 @@
 	MaxRows = 16
 	#Max number of columns shown
 	#Range: 4 ~ 100
-	MaxColumns = 9
+	MaxColumns = 90
 	#Horizontal alignment of the ingredient grid inside the available area
 	#Allowed Values: LEFT, CENTER, RIGHT
 	HorizontalAlignment = "LEFT"

@@ -4,7 +4,7 @@
 	#Range: 0 ~ 1000
 	beaconProtectionRange = 64
 	#Set to true to enable champions from mob spawners
-	championSpawners = false
+	championSpawners = true
 	#The minimum tier of champions that will have death messages sent out upon defeat (0 to disable)
 	#Range: > 0
 	deathMessageTier = 0

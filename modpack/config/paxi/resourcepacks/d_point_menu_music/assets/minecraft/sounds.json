@@ -1,0 +1,12 @@
+{
+    "custom.dpoint.menumusic": {
+        "sounds": [
+            "custom/startup/xmas1", 
+            "custom/startup/xmas2"      
+        ],
+        "stream": true,
+        "preload": true
+
+    }
+}
+

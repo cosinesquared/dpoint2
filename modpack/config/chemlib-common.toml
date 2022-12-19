@@ -4,9 +4,9 @@
 #    Disable rendering abbreviations on a per item type basis.
 #
 ["Rendering Options"]
-	"element abbreviations" = true
 	"dust abbreviations" = false
 	"nugget abbreviations" = false
 	"ingot abbreviations" = false
+	"element abbreviations" = true
 	"plate abbreviations" = false
 

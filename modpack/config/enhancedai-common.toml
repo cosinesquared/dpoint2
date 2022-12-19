@@ -80,9 +80,9 @@
 	#Makes mobs be able to move in more ways, like climbing or swim.
 	[Base.Movement]
 		#If true, mobs will be able to climb (up and down)
-		"Allow Climbing" = false
+		"Allow Climbing" = true
 		#If true, mobs try to find climbable blocks to reach the target
-		"Target Ladders" = false
+		"Target Ladders" = true
 		#How faster mobs can swim. Setting to 0 will leave the swim speed as vanilla. I recommend using mods like Mobs Properties Randomness to have more control over the attribute.
 		#Range: 0.0 ~ 4.0
 		"Swim Speed Multiplier" = 2.5
@@ -183,14 +183,14 @@
 		#Range: 0.0 ~ 1.0
 		"Launch Chance" = 0.05
 		#If true creepers will ignite if damaged by an explosion.
-		"TNT Like" = false
+		"TNT Like" = true
 
 		[Creeper."Creeper Swell"."Creeper Cena"]
 			#AND HIS NAME IS ...
 			#Range: 0.0 ~ 1.0
 			"Cena Chance" = 0.02
 			#If true, Creeper Cena explosion will generate fire
-			"Cena generates fire" = false
+			"Cena generates fire" = true
 			#Explosion power of Creeper Cena
 			#Range: 0.0 ~ 12.0
 			"Cena explosion power" = 6.0
